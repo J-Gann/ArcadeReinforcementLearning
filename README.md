@@ -1,10 +1,10 @@
-# ArcadeReinforcementLearning
+# Arcade Reinforcement Learning
 
 In this project Reinforcement Learning is used to train an agent in playing a version of the "Bomberman" arcade game.
 
 The framework of the game is taken from https://github.com/ukoethe/bomberman_rl. For a detailed explanation of the framework refer to the repository referenced above or the project ![description](Exercise.pdf).
 
-The trained agent is located at `agent_code/null_agent`.
+The trained agent is located at `agent_code/null_agent`. The trained model is tracked using ![git lfs](https://git-lfs.github.com/).
 
 ![bomberman](bomberman.png)
 
